@@ -1,0 +1,33 @@
+body{
+direction:rtl;
+}
+
+.column,.columns{
+	float:right;
+}
+
+.logo{
+	text-align:right;
+}
+
+#menu li{
+	float: right;
+}
+@media all and (max-width: 767px){
+	#menu{ float: right; padding-top: 21px; margin-bottom: 22px; }
+	#menu li{float: none; }
+	.logo{text-align:left;}
+	
+}
+@media only screen and (max-width: 479px) {
+	
+}
+.large-4
+{
+    float:right;
+}
+
+.info
+{
+    text-align:center;
+}

@@ -257,10 +257,10 @@ $(document).ready(function () {
 	// Team Members Carousel
 	jQuery(".team-slider").owlCarousel({
 		lazyLoad : true,
-		slideSpeed : 300,
+		slideSpeed : 600,
 		stopOnHover: true,
-		paginationSpeed : 400,
-		autoPlay: 3500,
+		paginationSpeed :800,
+		autoPlay: 1500,
 		navigation : false,
 		pagination : false,
 		autoHeight : true,

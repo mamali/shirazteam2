@@ -1,5 +1,10 @@
-
-
+#contact-form li{
+direction:rtl;
+}
+.portfolio-item{
+float:right;
+direction:rtl;
+}
 .column,.columns{
 	float:right;
 }
